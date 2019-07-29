@@ -1,0 +1,15 @@
+C:\Users\cmont\source\repos\PaísesCentroAmericanos\bin\Debug\PaísesCentroAmericanos.exe.config
+C:\Users\cmont\source\repos\PaísesCentroAmericanos\bin\Debug\PaísesCentroAmericanos.exe
+C:\Users\cmont\source\repos\PaísesCentroAmericanos\bin\Debug\PaísesCentroAmericanos.pdb
+C:\Users\cmont\source\repos\PaísesCentroAmericanos\obj\Debug\PaísesCentroAmericanos.csprojAssemblyReference.cache
+C:\Users\cmont\source\repos\PaísesCentroAmericanos\obj\Debug\PaísesCentroAmericanos.Form1.resources
+C:\Users\cmont\source\repos\PaísesCentroAmericanos\obj\Debug\PaísesCentroAmericanos.Properties.Resources.resources
+C:\Users\cmont\source\repos\PaísesCentroAmericanos\obj\Debug\PaísesCentroAmericanos.csproj.GenerateResource.cache
+C:\Users\cmont\source\repos\PaísesCentroAmericanos\obj\Debug\PaísesCentroAmericanos.csproj.CoreCompileInputs.cache
+C:\Users\cmont\source\repos\PaísesCentroAmericanos\obj\Debug\PaísesCentroAmericanos.exe
+C:\Users\cmont\source\repos\PaísesCentroAmericanos\obj\Debug\PaísesCentroAmericanos.pdb
+C:\Users\cmont\source\repos\PaísesCentroAmericanos\obj\Debug\PaísesCentroAmericanos.MainWindow.resources
+C:\Users\cmont\source\repos\PaísesCentroAmericanos\obj\Debug\PaísesCentroAmericanos.Creditos.resources
+C:\Users\cmont\source\repos\PaísesCentroAmericanos\obj\Debug\PaísesCentroAmericanos.Guatemala.resources
+C:\Users\cmont\source\repos\PaísesCentroAmericanos\obj\Debug\PaísesCentroAmericanos.Belice.resources
+C:\Users\cmont\source\repos\PaísesCentroAmericanos\obj\Debug\PaísesCentroAmericanos.Honduras.resources
